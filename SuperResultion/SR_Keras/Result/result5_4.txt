@@ -1,0 +1,7 @@
+28.319329963362883  ../data/SetData/Test/Set5/butterfly_GT.bmp  ../Result/RGBX2/butterfly_GT.bmp
+32.32163989026926  ../data/SetData/Test/Set5/woman_GT.bmp  ../Result/RGBX2/woman_GT.bmp
+33.947456648661635  ../data/SetData/Test/Set5/head_GT.bmp  ../Result/RGBX2/head_GT.bmp
+37.313210722883774  ../data/SetData/Test/Set5/bird_GT.bmp  ../Result/RGBX2/bird_GT.bmp
+36.591260071817366  ../data/SetData/Test/Set5/baby_GT.bmp  ../Result/RGBX2/baby_GT.bmp
+33.698579459398985
+-----------------------------------------

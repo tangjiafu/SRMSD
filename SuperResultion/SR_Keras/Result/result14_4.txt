@@ -1,0 +1,13 @@
+32.67176175597322  ../data/SetData/Test/Set14/pepper.bmp  ../Result/RGBX2/pepper.bmp
+33.62763979209615  ../data/SetData/Test/Set14/monarch.bmp  ../Result/RGBX2/monarch.bmp
+26.82103971339111  ../data/SetData/Test/Set14/barbara.bmp  ../Result/RGBX2/barbara.bmp
+23.65385409558032  ../data/SetData/Test/Set14/baboon.bmp  ../Result/RGBX2/baboon.bmp
+34.45786247044688  ../data/SetData/Test/Set14/lenna.bmp  ../Result/RGBX2/lenna.bmp
+27.08260327999629  ../data/SetData/Test/Set14/bridge.bmp  ../Result/RGBX2/bridge.bmp
+27.303728192968954  ../data/SetData/Test/Set14/ppt3.bmp  ../Result/RGBX2/ppt3.bmp
+33.92872315521857  ../data/SetData/Test/Set14/face.bmp  ../Result/RGBX2/face.bmp
+32.42573490974893  ../data/SetData/Test/Set14/foreman.bmp  ../Result/RGBX2/foreman.bmp
+28.75987990094762  ../data/SetData/Test/Set14/coastguard.bmp  ../Result/RGBX2/coastguard.bmp
+28.66866651481668  ../data/SetData/Test/Set14/man.bmp  ../Result/RGBX2/man.bmp
+29.94559034374407
+-----------------------------------------
